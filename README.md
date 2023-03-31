@@ -1,6 +1,6 @@
 # Projeto X IACIT
 
-![teste](https://github.com/francinelemes1504/API-6-Semestre-2023/blob/main/Imagens/Francielle%20Silva.png?raw=true)
+![teste]()
 
 
 ## Badges
