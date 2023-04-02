@@ -24,7 +24,7 @@
 ![Nossa Equipe](https://github.com/francinelemes1504/API-6-Semestre-2023/blob/main/Imagens/Nossa%20Equipe.JPG?raw=true)
 
 ## Descrição do Projeto
-# O objetivo deste projeto é extrair, analisar e tratar os dados fornecidos pela Empresa parceira, mensurando de forma prática os indicadores através de um Dashboard integrado às plataformas ou ferramentas já utilizadas em seu cotidiano.
+### O objetivo deste projeto é extrair, analisar e tratar os dados fornecidos pela Empresa parceira, mensurando de forma prática os indicadores através de um Dashboard integrado às plataformas ou ferramentas já utilizadas em seu cotidiano.
 
 ## Funcionalidades e Demonstração da Aplicação
 
