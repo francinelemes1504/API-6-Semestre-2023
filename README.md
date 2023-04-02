@@ -23,7 +23,7 @@
 
 ## Nossa Equipe
 
-![teste]()
+![Nossa Equipe](https://github.com/francinelemes1504/API-6-Semestre-2023/blob/main/Imagens/Nossa%20Equipe.JPG?raw=true)
 
 ## Descrição do Projeto
 
