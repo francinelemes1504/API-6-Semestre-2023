@@ -12,6 +12,7 @@
 # Índice 
 
 * [Projeto](#Projeto-X-IACIT)
+* [Nossa Equipe] (#equipe)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -20,6 +21,9 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autores](#Autores)
 
+## Nossa Equipe
+
+![teste]()
 
 ## Descrição do Projeto
 
