@@ -1,7 +1,5 @@
 # Projeto X IACIT
 
-![teste]()
-
 
 ## Badges
 <p align="center">
@@ -12,7 +10,7 @@
 # Índice 
 
 * [Projeto](#Projeto-X-IACIT)
-* [Nossa Equipe] (#equipe)
+* [Nossa Equipe](#equipe)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -23,9 +21,10 @@
 
 ## Nossa Equipe
 
-![teste]()
+![Nossa Equipe](https://github.com/francinelemes1504/API-6-Semestre-2023/blob/main/Imagens/Nossa%20Equipe.JPG?raw=true)
 
 ## Descrição do Projeto
+### O objetivo deste projeto é extrair, analisar e tratar os dados fornecidos pela Empresa parceira, mensurando de forma prática os indicadores através de um Dashboard integrado às plataformas ou ferramentas já utilizadas em seu cotidiano.
 
 ## Funcionalidades e Demonstração da Aplicação
 
@@ -41,28 +40,41 @@
 ## Tecnologias utilizadas
 
    *  [x] Excel
-   *  [ ] Project
+   *  [x] Project
    *  [ ] Power BI
-   *  [ ] Jira Software
+   *  [x] Jira Software
+   *  [ ] GitHub
+   *  [ ] PowerPoint
 
 ## Plano de Entrega
 
+
 ### Sprint 1
-   *  [x] Tarefa 1
-   *  [x] Tarefa 2
-   *  [x] Tarefa 3
-   *  [x] Tarefa 4
+   *  [x] Criação de usuário na ferramenta Slack para contato com a empresa parceira;
+   *  [x] Envio de dúvidas e coleta de expectativas da empresa parceira acerca da 1a Sprint;
+   *  [x] Estudo e criação de usuários na ferramenta Jira;
+   *  [x] Estudo e criação de usuários na ferramenta GitHub;
+   *  [x] Criação da lista de desejos da empresa parceira;
+   *  [x] Realização do esboço de Backlog;
+   *  [x] Consolidação do Objetivo do Projeto;
+   *  [x] Criação do quadro da Equipe e funções;
+   *  [x] Preparação da 1a Sprint;
+   *  [ ] Visita à empresa parceira.
 
 ### Sprint 2
-  *  [ ] Tarefa 5
-   *  [ ] Tarefa 6
-   *  [ ] Tarefa 7
-   *  [ ] Tarefa 8
+   *  [ ] Recebimento dos dados que servirão de base para o projeto;
+   *  [ ] Análise e integração das respostas da empresa parceira junto aos dados recebidos;
+   *  [ ] Tratamento dos dados para elaboração do Dashboard;
+   *  [ ] Criação de Dashboard para os indicadores de Real X Plan do cronograma geral e Real x Plan de custos de desenvolvimento;
+   *  [ ] Atualização do andamento do Projeto na ferramenta GitHub;
+   *  [ ] Criação de padrão para atualização do Dashboard.
+   
 ### Sprint 3
-   *  [ ] Tarefa 9
-   *  [ ] Tarefa 10
-   *  [ ] Tarefa 11
-   *  [ ] Tarefa 12
+   *  [ ] Tratamento de dados para incremento no Dashboard;
+   *  [ ] Incremento do indicador de Medição da Performance da Equipe;
+   *  [ ] Atualização do andamento do Projeto na ferramenta GitHub;
+   *  [ ] Criação de padrão para atualização do Dashboard.
+   
 ### Sprint 4
    *  [ ] Tarefa 13
    *  [ ] Tarefa 14
