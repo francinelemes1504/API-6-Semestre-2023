@@ -59,6 +59,7 @@
    
 ### Sprint 2
    *  [ ] Visita à empresa parceira;
+   *  [ ] Sob demanda - Atualização do Cronograma;
    *  [ ] Recebimento dos dados que servirão de base para o projeto;
    *  [ ] Análise e integração das respostas da empresa parceira junto aos dados recebidos;
    *  [ ] Tratamento dos dados para elaboração do Dashboard;
