@@ -89,7 +89,7 @@ Ana Prolungati 	 | [Perfil](https://www.linkedin.com/in/ana-carolina-prolungati-
   
 Camila Almeida	 | [Perfil](https://www.linkedin.com/in/camila-monteiro-17800a118)
   
-Daniele Lima   	 | [Perfil](www.linkedin.com/in/daniele-lima-39a92834)
+Daniele Lima   	 | [Perfil](https://www.linkedin.com/in/daniele-lima-39a92834)
   
 Francielle Silva | [Perfil](https://www.linkedin.com/in/sffran/)
   
