@@ -1,4 +1,4 @@
-# Projeto X IACIT
+# Projeto Conecta e IACIT
 
 
 ## Badges
@@ -9,7 +9,7 @@
 
 ## Índice 
 
-* [Projeto](#Projeto-X-IACIT)
+* [Projeto](#projeto-conecta-e-iacit)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Nossa Equipe](#nossa-equipe)
@@ -28,14 +28,9 @@
 
 ## Funcionalidades e Demonstração da Aplicação
 
-:construction: Projeto em construção :construction:
+### Projeto em construção :construction:
 
-### :hammer: Funcionalidades do Projeto :alarm_clock:
-
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
-- `Funcionalidade 4`: descrição da funcionalidade 4
+![gif-carregando](https://github.com/francinelemes1504/API-6-Semestre-2023/blob/main/Imagens/spinner-transparente.gif?raw=true)
 
 ## Tecnologias Utilizadas
 
@@ -47,7 +42,9 @@
    *  [x] PowerPoint
 
 ## Plano de Entrega
+### Cronograma Geral
 
+![programação-geral](https://github.com/francinelemes1504/API-6-Semestre-2023/blob/main/Imagens/Programa%C3%A7%C3%A3o.gif?raw=true)
 
 ### Sprint 1
    *  [x] Criação de usuário na ferramenta Slack para contato com a empresa parceira;
@@ -58,10 +55,10 @@
    *  [x] Realização do esboço de Backlog;
    *  [x] Consolidação do Objetivo do Projeto;
    *  [x] Criação do quadro da Equipe e funções;
-   *  [x] Preparação da 1a Sprint;
-   *  [ ] Visita à empresa parceira.
-
+   *  [x] Preparação da 1a Sprint.
+   
 ### Sprint 2
+   *  [ ] Visita à empresa parceira;
    *  [ ] Recebimento dos dados que servirão de base para o projeto;
    *  [ ] Análise e integração das respostas da empresa parceira junto aos dados recebidos;
    *  [ ] Tratamento dos dados para elaboração do Dashboard;
