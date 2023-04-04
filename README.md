@@ -97,6 +97,6 @@ Francine Lemes	 | [Perfil](https://www.linkedin.com/in/francinelemes)
   
 Guilherme Rahal  | [Perfil](https://www.linkedin.com/in/guilherme-rahal-32996a236)
   
-Mariana Martins	 | [Perfil](https://www.linkedin.com/mwlite/profile/in/mariana-martins-417782178)
+Mariana Martins	 | [Perfil](https://www.linkedin.com/in/mariana-martins-417782178/)
   
 Mariana Peres 	 | [Perfil](https://www.linkedin.com/in/marianaperescosta)
