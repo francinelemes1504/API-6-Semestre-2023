@@ -36,7 +36,7 @@
 
    *  [x] Excel
    *  [x] Project
-   *  [x] Power BI
+   *  [ ] Power BI
    *  [x] Jira Software
    *  [x] GitHub
    *  [x] PowerPoint
