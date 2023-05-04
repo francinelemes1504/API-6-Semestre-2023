@@ -19,6 +19,14 @@ Daniele Cristina Perpétuo de Lima Pereira
 www.linkedin.com/in/daniele-lima-39a92834
 
 
+### :hammer: Funcionalidades do Projeto :alarm_clock:
+
+- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Funcionalidade 2`: descrição da funcionalidade 2
+- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 4`: descrição da funcionalidade 4
+
+
 Mariana Peres Costa Silva
 https://www.linkedin.com/in/marianaperescosta
 

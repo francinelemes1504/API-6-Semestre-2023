@@ -1,0 +1,28 @@
+PITCH das Sprints - Tempo: 4 a 5 min
+
+Sugestão de Estrutura:
+1. Apresentação da Equipe com foto;
+2. Objetivo do Projeto (temática e problema fornecido);
+3. Backlog total e Cronograma de Entregas (mostrando evolução); 
+4. Backlog da Sprint (Funcionalidades e Wireframes ou Mockup);
+5. Burndown da Sprint; 
+6. Modelo de dados da Sprint (quando aplicável);
+7. Tecnologias empregadas na Sprint; 
+8. Vídeo ou Gif animado do software rodando são obrigatórios (features da Sprint);
+9. Agradecimentos finais.
+
+Orientação final:
+- Use linguagem formal;
+- Ensaie antes;
+- Um aluno somente conduzindo a apresentação (com boa conexão com internet);
+-  Mantenha um outro aluno com notebook ligado (e boa conexão com internet) como "reserva";
+- Não use, em hipótese alguma, apresentação gravada em vídeo antes.
+
+Para Sprint 4 (final):
+- Para a Sprint final, a apresentação recebe enfoque de Produto final (venda)
+
+
+
+
+
+
