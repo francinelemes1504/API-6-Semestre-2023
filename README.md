@@ -32,11 +32,13 @@
 
 ![gif-carregando](https://github.com/francinelemes1504/API-6-Semestre-2023/blob/main/Imagens/spinner-transparente.gif?raw=true)
 
+
+
 ## Tecnologias Utilizadas
 
    *  [x] Excel
    *  [x] Project
-   *  [ ] Power BI
+   *  [x] Power BI
    *  [x] Jira Software
    *  [x] GitHub
    *  [x] PowerPoint
@@ -58,16 +60,19 @@
    *  [x] Preparação da 1a Sprint.
    
 ### Sprint 2
-   *  [ ] Visita à empresa parceira;
-   *  [ ] Sob demanda - Atualização do Cronograma;
-   *  [ ] Recebimento dos dados que servirão de base para o projeto;
-   *  [ ] Análise e integração das respostas da empresa parceira junto aos dados recebidos;
-   *  [ ] Tratamento dos dados para elaboração do Dashboard;
-   *  [ ] Criação de Dashboard para os indicadores de Real X Plan do cronograma geral e Real x Plan de custos de desenvolvimento;
-   *  [ ] Atualização do andamento do Projeto na ferramenta GitHub;
-   *  [ ] Criação de padrão para atualização do Dashboard.
+   *  [NOK] Visita à empresa parceira;
+   *  [x] Sob demanda - Atualização do Cronograma;
+   *  [x] Recebimento dos dados que servirão de base para o projeto;
+   *  [x] Análise e integração das respostas da empresa parceira junto aos dados recebidos;
+   *  [x] Tratamento dos dados para elaboração do Dashboard;
+   *  [x] Criação de Dashboard para os indicadores de tempo real gasto no projeto X tempo planejado no cronograma;
+   *  [x] Criação de Dashboard para os indicadores de tempo gasto de cada pessoa em cada projeto;
+   *  [x] Criação de Dashboard para os indicadores de custos X horas utilizadas de cada recurso X o valor total do projeto do RADAR 001;
+   *  [x] Atualização do andamento do Projeto na ferramenta GitHub;
+   *  [NOK] Criação de padrão para atualização do Dashboard.
    
 ### Sprint 3
+   *  [ ] Visita à empresa parceira;
    *  [ ] Incremento de funcionalidades ou ajustes solicitados pelo parceiro;
    *  [ ] Tratamento de dados para adição de novo indicador no Dashboard;
    *  [ ] Adição do indicador de Medição da Performance da Equipe;
@@ -76,7 +81,6 @@
    
 ### Sprint 4
    *  [ ] Incremento de funcionalidades ou ajustes solicitados pelo parceiro;
-   *  [ ] Desejável - Tratamento de dados para detalhamento do indicador de Performance de Equipe no Dashboard;
    *  [ ] Desejável - Atualização do Dashboard para detalhar a Perfomance de Equipe através da medição de Desvios de Equipe e Indíces de Retrabalho;
    *  [ ] Atualização do andamento do Projeto na ferramenta GitHub;
    *  [ ] Criação de padrão para atualização do Dashboard.
