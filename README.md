@@ -71,6 +71,8 @@
    *  [x] Atualização do andamento do Projeto na ferramenta GitHub;
    *  [NOK] Criação de padrão para atualização do Dashboard.
    
+   ![image](https://user-images.githubusercontent.com/129343466/236077086-2f8ef6ac-4b47-4216-8b2b-aded1364791c.png)
+   
 ### Sprint 3
    *  [ ] Visita à empresa parceira;
    *  [ ] Incremento de funcionalidades ou ajustes solicitados pelo parceiro;
