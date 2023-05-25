@@ -28,12 +28,6 @@
 
 ## Funcionalidades e Demonstração da Aplicação
 
-### Projeto em construção :construction:
-
-![gif-carregando](https://github.com/francinelemes1504/API-6-Semestre-2023/blob/main/Imagens/spinner-transparente.gif?raw=true)
-
-
-
 ## Tecnologias Utilizadas
 
    *  [x] Excel
@@ -74,14 +68,17 @@
    ![image](https://user-images.githubusercontent.com/129343466/236077086-2f8ef6ac-4b47-4216-8b2b-aded1364791c.png)
    
 ### Sprint 3
-   *  [ ] Visita à empresa parceira;
-   *  [ ] Incremento de funcionalidades ou ajustes solicitados pelo parceiro;
-   *  [ ] Tratamento de dados para adição de novo indicador no Dashboard;
-   *  [ ] Adição do indicador de Medição da Performance da Equipe;
-   *  [ ] Atualização do andamento do Projeto na ferramenta GitHub;
-   *  [ ] Criação de padrão para atualização do Dashboard.
+   *  [x] Visita à empresa parceira;
+   *  [x] Incremento de funcionalidades ou ajustes solicitados pelo parceiro;
+   *  [x] Tratamento de dados para adição de novo indicador no Dashboard;
+   *  [NOK] Adição do indicador de Medição da Performance da Equipe;
+   *  [x] Adição do indicador de Desvios da Equipe;
+   *  [x] Atualização do andamento do Projeto na ferramenta GitHub;
+   *  [NOK] Criação de padrão para atualização do Dashboard.
+
+ ![image](https://github.com/francinelemes1504/API-6-Semestre-2023/assets/129343466/8d05864b-7b72-4841-a2c4-0557a9911ad7)
    
-### Sprint 4
+### Sprint 4 - CANCELADA
    *  [ ] Incremento de funcionalidades ou ajustes solicitados pelo parceiro;
    *  [ ] Desejável - Atualização do Dashboard para detalhar a Perfomance de Equipe através da medição de Desvios de Equipe e Indíces de Retrabalho;
    *  [ ] Atualização do andamento do Projeto na ferramenta GitHub;
